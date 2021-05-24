@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 May 2021 11:28:56 +0700</pubDate><title><![CDATA[Pricing]]></title><url><![CDATA[pricing]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Pricing]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+		&lt;div class=&quot;card card-plain card-blog shadow rounded p-3 bg-light&quot;&gt;
+			&lt;div class=&quot;card-body px-0&quot;&gt;
+				&lt;p class=&quot;lead border bg-dark text-white text-center p-3&quot;&gt;&lt;b&gt;Basic&lt;/b&gt;&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p&gt;DX Shop Apps&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Free domain .my.id&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Clouds Host&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Free Website Informasi&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;500MB Web Space&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p class=&quot;lead p-3 bg-dark text-white&quot;&gt;&lt;strong&gt;Rp.568.800&lt;/strong&gt;&lt;/p&gt;
+				&lt;br /&gt;
+				&lt;a class=&quot;btn btn-dark&quot; href=&quot; https://wa.me/6285646104747?text=Axcoraapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3ADexoposshop-Basic%0APrice%20%3ARp.568.800/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+		&lt;div class=&quot;card card-plain card-blog shadow rounded p-3 bg-dark&quot;&gt;
+			&lt;div class=&quot;card-body px-0 text-white&quot;&gt;
+				&lt;p class=&quot;lead bg-warning text-center p-3 text-dark&quot;&gt;&lt;b&gt;Premium&lt;/b&gt;&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p&gt;DX Shop Apps&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Free domain .com&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Clouds Host&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Website Premium Pack&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;1.5GB Web Space&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;APK Android Backend&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;APK Android Frontend&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p class=&quot;lead p-3 bg-warning text-dark&quot;&gt;&lt;strong&gt;Rp.3.264.800&lt;/strong&gt;&lt;/p&gt;
+				&lt;br /&gt;
+				&lt;a class=&quot;btn btn-warning&quot; href=&quot; https://wa.me/6285646104747?text=Axcorasapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3ADeXoposShopApps-Premium%0APrice%20%3ARp.3.264.800/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+		&lt;div class=&quot;card card-plain card-blog shadow rounded p-3 bg-warning&quot;&gt;
+			&lt;div class=&quot;card-body px-0&quot;&gt;
+				&lt;p class=&quot;lead bg-dark text-white text-center p-3&quot;&gt;&lt;b&gt;Standard&lt;/b&gt;&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p&gt;DX Shop Apps&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Free domain .com&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Clouds Host&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;CMS Website&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;500MB Web Space&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;APK Android Backend&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+				&lt;hr /&gt;
+				&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+				&amp;nbsp;
+
+				&lt;p class=&quot;lead p-3 bg-dark text-white&quot;&gt;&lt;strong&gt;Rp.1.561.200&lt;/strong&gt;&lt;/p&gt;
+				&lt;br /&gt;
+				&lt;a class=&quot;btn btn-dark text-white&quot; href=&quot; https://wa.me/6285646104747?text=Axcoraapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3ADexopos-Standard%0APrice%20%3ARp.1.561.200/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;text-dark float-end&quot; href=&quot;index.php?id=contact&quot;&gt;Contact Us →&lt;/a&gt;&lt;a class=&quot;text-dark float-start&quot; href=&quot;index.php?id=android-app&quot;&gt;← Android App&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 23 May 2021 23:27:25 +0700</pubDate><title><![CDATA[QR Menu Digital Restoran]]></title><url><![CDATA[qr-menu-digital-restoran]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[QR Menu Digital Restoran]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;section class=&quot;about-area2 section-padding40 section-bg2 bg-white p-3&quot; id=&quot;start&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row align-items-center&quot;&gt;
+		&lt;div class=&quot;col-xl-5 col-lg-6 col-md-12&quot;&gt;
+			&lt;div class=&quot;about-caption mb-50&quot;&gt;
+				&lt;div class=&quot;about-icon bg-dark text-white&quot;&gt;&lt;i class=&quot;fas fa-qrcode&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;section-tittle mb-25&quot;&gt;
+					&lt;h2&gt;&lt;strong&gt;&lt;a class=&quot;text-dark&quot; href=&quot;index.php?id=qr-menu-digital-restoran&quot;&gt;QR Code menu digital restoran cafe rumah makan.&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+				&lt;/div&gt;
+
+				&lt;p class=&quot;mb-20&quot;&gt;Dan kini restoran cafe rumah makan akan semakin modern dengan hadirnya qr code ini, apa itu qr code ?? qr code adalah menu digital pengganti menu konvensional , cara kerja nya pelanggan cukup scan via qr code smartphone nya dan nantinya akan mengakses halaman khusus untuk menu , selanjutnya pelanggan tinggal memilih menu menu makanan dan minuman.&lt;/p&gt;
+&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xl-6 col-lg-6 col-md-9 col-sm-9&quot;&gt;
+			&lt;div class=&quot;about-img &quot;&gt;&lt;img alt=&quot;restoran cafe rumah makan applikasi&quot; src=&quot;https://1.bp.blogspot.com/-sz4C3cVuXGY/YHcydTdcBQI/AAAAAAAANts/blF9GMyZzoEP2yPvM4GwFkFVOh7z1kwEQCLcBGAsYHQ/s1980/qr%2Bcode%2Bmenu%2Brestoran%2Bcafe%2Brumah%2Bmakan%2Bonline1.jpg&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row justify-content-center&quot;&gt;
+		&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5&quot;&gt;
+			&lt;div class=&quot;hero__caption text-center text-secondary border border-dark rounded p-3&quot;&gt;
+				&lt;p class=&quot;text-secondary&quot; data-animation=&quot;fadeInUp&quot; data-delay=&quot;0.4s&quot;&gt;Pelajari bagaimana qr code menu digital restoran cafe rumah makan ini bekerja untuk kebutuhan lebih baik bagi kemajuan usaha kuliner anda.&lt;/p&gt;
+
+				&lt;p&gt;&lt;button class=&quot;btn all-btn bg-dark rounded-pill text-white&quot; data-bs-target=&quot;#androidModal&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;Watch Demo&lt;/button&gt;&lt;/p&gt;
+
+				&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;androidModalLabel&quot; class=&quot;modal fade&quot; id=&quot;androidModal&quot; tabindex=&quot;-1&quot;&gt;
+					&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+						&lt;div class=&quot;modal-content bg-dark text-white&quot;&gt;
+							&lt;div class=&quot;modal-header&quot;&gt;
+								&lt;h5 class=&quot;modal-title text-white&quot; id=&quot;androidModalLabel&quot;&gt;Android Restoran Apps.&lt;/h5&gt;
+								&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close text-white&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;modal-body&quot;&gt;
+								&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/JuzvMHmMWxQ&quot; title=&quot;QR Code menu digital restoran online&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;modal-footer&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

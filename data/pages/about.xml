@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 May 2021 09:44:07 +0700</pubDate><title><![CDATA[About]]></title><url><![CDATA[about]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[About]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5&quot;&gt;
+			&lt;h3&gt;&lt;strong&gt;About Aplikasi Toko Dexopos Shop Apps&lt;/strong&gt;&lt;/h3&gt;
+&lt;hr/&gt;
+			&lt;p&gt;Dexopos apps adalah sebuah program software toko desktop version yang di bangun dan develope menggunakan &lt;a class=&quot;text-dark&quot; href=&quot;https://laravel.com&quot; target=&quot;_blank&quot;&gt;laravel&lt;/a&gt; php artisan framework, laravel sendiri merupakan framework populer di dunia PHP version, karena kestabilan keamanan dan kecepatan digunakan dalam bekerja maka pemilihan penggunaan kerangka kerja untuk laravel digunakan guna menciptakan apps ini.&lt;/p&gt;
+
+			&lt;p&gt;Cara kerja &lt;a class=&quot;text-dark&quot; href=&quot;/&quot;&gt;&lt;strong&gt;aplikasi toko&lt;/strong&gt;&lt;/a&gt; pada dasarnya karena penggunaan dikhusus kan untuk dekstop maka perlu dilakukan installasi pada device pc atau mesin kasir untuk bekerja, hal ini untuk menjaga stabilitas dalam operasional nya, dan berdasarkan untuk mobilitas maka kini hadir dengan clouds based yang dimana kami melakukan installasi via full clouds demi kemudahan untuk deploy menjadikan nya web app yang berfungsi digunakan karyawan staff untuk bekerja mencatat penjualan pelanggan pada dasarnya, dan tentunya khusus transaksi kasir tetap menggunakan desktop mesin kasir.&lt;/p&gt;
+
+			&lt;p&gt;Seiring dengan perkembangan techno maka kami putuskan untuk menjadikan satu website dengan aplikasi agar berguna dalam kebutuhan promosi usaha toko shop store outlet pada online network, dengan konsep ini maka harapan kami sebagai pengembang selain aplikasi untuk digunakan bekerja juga mendapatkan fasilitas promosi via website didalam nya. selain itu memungkinkan akses aplikasi ini via smartphone android secara langsung untuk bekerja via clouds apps ini.&lt;/p&gt;
+
+			&lt;p&gt;Kemajuan dan technology : seiring pesatnya android khusus nya untuk pengembangan berbagai aplikasi , maka kami pun mendeploy apk android yang terintegrasi agar mudah digunakan dalam berbagai kebutuhan, khusus nya untuk pelanggan guna mendapatkan update secara langsung baik promosi dan event yang di selenggarakan usaha toko shop store.&lt;/p&gt;
+
+			&lt;p&gt;Ya all in one bisa di dapatkan via dexopos shop apps ini, mulai sekarang update dan lakukan revolusi digital bersama &lt;a class=&quot;text-dark&quot; href=&quot;/&quot;&gt;dexopos web apps aplikasi toko include pembuatan website toko dan aplikasi android&lt;/a&gt; menjadi satu.&lt;/p&gt;
+&lt;hr/&gt;
+			&lt;p&gt;&lt;a class=&quot;text-dark float-end&quot; href=&quot;index.php?id=fitur-apps&quot;&gt;Get Started →&lt;/a&gt;&lt;a class=&quot;text-dark float-start&quot; href=&quot;index.php&quot;&gt;← Home Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

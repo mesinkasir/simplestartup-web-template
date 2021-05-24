@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 May 2021 11:21:08 +0700</pubDate><title><![CDATA[Website online shop]]></title><url><![CDATA[website-online-shop]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Website online shop]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h3&gt;&lt;strong&gt;&lt;a class=&quot;text-dark&quot; href=&quot;index.php?id=website-online-shop&quot;&gt;Pembuatan website toko online shop&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Untuk setiap order paket layanan apapun akan mendapatkan free website dan domain sesuai paket yang dipilih berikut adalah display dari website themes sesuai layanan.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;b&gt;Premium&lt;/b&gt;&lt;/p&gt;
+
+&lt;div class=&quot;carousel slide carousel-fade&quot; data-bs-ride=&quot;carousel&quot; id=&quot;carouselExampleFade&quot;&gt;
+	&lt;div class=&quot;carousel-inner&quot;&gt;
+		&lt;div class=&quot;carousel-item active&quot;&gt;&lt;img alt=&quot;pembuatan website toko online shop&quot; class=&quot;d-block w-100&quot; src=&quot;https://1.bp.blogspot.com/-VS-_F5P0myk/YHBXq1iJL_I/AAAAAAAANbQ/zmcuERwQE7Mqxwm74mQd9hiHgdONrkF5ACLcBGAsYHQ/s1349/pembuatan%2Bwebsite%2Btoko%2Bonline%2Bshop%2B%252812%2529.png&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;carousel-item&quot;&gt;&lt;img alt=&quot;pembuatan website toko online shop&quot; class=&quot;d-block w-100&quot; src=&quot;https://1.bp.blogspot.com/-g-yyw3Tw6oU/YHBXrdI_oII/AAAAAAAANbY/3ouoJ_o6FJ4rbNhk-Y8kwwKARVT356rlgCLcBGAsYHQ/s1349/pembuatan%2Bwebsite%2Btoko%2Bonline%2Bshop%2B%252814%2529.png&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;carousel-item&quot;&gt;&lt;img alt=&quot;pembuatan website toko online shop&quot; class=&quot;d-block w-100&quot; src=&quot;https://1.bp.blogspot.com/-td363bCRxTQ/YHBXrFib4TI/AAAAAAAANbU/R5cfTC9ywikxyZ5d1OJ20iHx12MMa7YGwCLcBGAsYHQ/s1349/pembuatan%2Bwebsite%2Btoko%2Bonline%2Bshop%2B%252813%2529.png&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;carousel-control-prev&quot; data-bs-slide=&quot;prev&quot; data-bs-target=&quot;#carouselExampleFade&quot; type=&quot;button&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;carousel-control-prev-icon&quot;&gt;&lt;/span&gt; &lt;span class=&quot;visually-hidden&quot;&gt;Previous&lt;/span&gt;&lt;/button&gt;&lt;button class=&quot;carousel-control-next&quot; data-bs-slide=&quot;next&quot; data-bs-target=&quot;#carouselExampleFade&quot; type=&quot;button&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;carousel-control-next-icon&quot;&gt;&lt;/span&gt; &lt;span class=&quot;visually-hidden&quot;&gt;Next&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;
+
+&lt;p&gt;Website layanan premium dengan konsep desain seragam dengan aplikasi toko shop semakin keren untuk digunakan, dan tentunya dengan kemampuan terintegrasi untuk menampilkan halaman produk dengan gambar produk include harga jual yang sudah di input pada aplikasi toko, dan untuk kemudahan sudah tersedia whatsapp order button untuk langsung melakukan pemesanan via whatsapp.&lt;/p&gt;
+
+&lt;p&gt;&lt;button class=&quot;btn btn-dark&quot; data-bs-target=&quot;#premiumBackdrop&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;Demo Premium&lt;/button&gt;&lt;/p&gt;
+
+&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;premiumBackdropLabel&quot; class=&quot;modal fade&quot; data-bs-backdrop=&quot;static&quot; data-bs-keyboard=&quot;false&quot; id=&quot;premiumBackdrop&quot; tabindex=&quot;-1&quot;&gt;
+	&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+		&lt;div class=&quot;modal-content&quot;&gt;
+			&lt;div class=&quot;modal-header bg-warning&quot;&gt;
+				&lt;h5 class=&quot;modal-titleid=&quot; premiumbackdroplabel=&quot;&quot;&gt;Layanan Premium&lt;/h5&gt;
+				&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;modal-body bg-dark&quot;&gt;
+				&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/cenxi37fj-8&quot; title=&quot;pembuatan website toko online shop&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;modal-footer bg-warning&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;b&gt;Standard&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;jasa pembuatan website toko online shop terbaru&quot; class=&quot;img-fluid&quot; src=&quot;https://a.fsdn.com/con/app/proj/modernwebsitecms/screenshots/new%20modernSEO%20%20cms%20get%20axcora%20%20%283%29%20-%20Copy.jpg/max/max/1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada layanan standard akan menggunakan content management system applikasi kami untuk kemudahan dalam membuat website, desain dengan landing page modern. dan kemudahan login via cms apps kami untuk melakukan update blog informasi.&lt;/p&gt;
+
+&lt;p&gt;&lt;button class=&quot;btn btn-dark&quot; data-bs-target=&quot;#standardBackdrop&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;Demo Standard&lt;/button&gt;&lt;/p&gt;
+
+&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;standardBackdropLabel&quot; class=&quot;modal fade&quot; data-bs-backdrop=&quot;static&quot; data-bs-keyboard=&quot;false&quot; id=&quot;standardBackdrop&quot; tabindex=&quot;-1&quot;&gt;
+	&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+		&lt;div class=&quot;modal-content&quot;&gt;
+			&lt;div class=&quot;modal-header bg-warning&quot;&gt;
+				&lt;h5 class=&quot;modal-titleid=&quot; premiumbackdroplabel=&quot;&quot;&gt;Layanan Standard&lt;/h5&gt;
+				&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;modal-body bg-dark&quot;&gt;
+				&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/X4fXZSY4NyA&quot; title=&quot;pembuatan website toko online shop&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;modal-footer bg-warning&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;b&gt;Basic&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;jasa pembuatan website toko online shop terbaru&quot; class=&quot;img-fluid&quot; src=&quot;https://1.bp.blogspot.com/-bZjXCL842GQ/YKsnLGrvD7I/AAAAAAAAOMA/ag_W7KwNzDYMARkT_rKlOammjD-HN5_OQCLcBGAsYHQ/s1349/pembuatanwebsitegratistemplate6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada layanan paket basic akan mendapatkan website informasi sebagai icon web app di dunia online net.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a class=&quot;text-dark float-end&quot; href=&quot;index.php?id=android-app&quot;&gt;Android App →&lt;/a&gt;&lt;a class=&quot;text-dark float-start&quot; href=&quot;index.php?id=fitur-apps&quot;&gt;← Kasir App&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

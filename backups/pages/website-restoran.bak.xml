@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 23 May 2021 23:13:53 +0700</pubDate><title><![CDATA[Website Restoran]]></title><url><![CDATA[website-restoran]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Website Restoran]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5&quot;&gt;
+			&lt;div class=&quot;p-3 p-md-5 shadow rounded&quot;&gt;
+				&lt;h3&gt;&lt;strong&gt;&lt;a href=&quot;index.php?id=website-restoran&quot;&gt;Membuat website online order restoran dengan mudah&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+				&lt;img alt=&quot;pembuatan website restoran rumah makan cafe&quot; class=&quot;img-fluid rounded&quot; src=&quot;https://1.bp.blogspot.com/-9xkmIw9I1ag/YHct5lRpiDI/AAAAAAAANs8/2_ZL7fbrFAc3W5byMuoFZDqeJLfi1UdWgCLcBGAsYHQ/s2833/pembuatan%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2Bonline%2Border%2Breservasi%2B%25282%2529%2B-%2BCopy.png&quot; /&gt;
+				&lt;p&gt;Dengan hadirnya aplikasi resto-x ini maka membuat website semakin mudah dan tentunya dengan dynamis system untuk kebutuhan dalam develope nya, hadir dengan reservasi special untuk mencatat booking pelangggan dilengkapi dengan tanggal awal dan akhir serta nominal booking fee hingga kebutuhan lain nya yang dihandle secara langsung pada web app ini, pada menu ini kamu dengan mudah dapat mengganti mengubah melakukan update pada home page area, melakukan update informasi pada blog untuk info event agenda hingga promosi, dan tentunya meja dengan kelengkapan detail berapa jumlah kursi lokasi meja berada di indoor atau outdoor dengan kelengkapan ini akan memudahan pelanggan untuk melakukan booking sesuai dengan kebutuhan nya.&lt;/p&gt;
+
+				&lt;h3&gt;&lt;strong&gt;&lt;a href=&quot;index.php?id=website-restoran&quot;&gt;Meja dan Reservasi&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+				&lt;p&gt;Secara skema kami sudah mendevelope dan mengintegrasikan dengan aplikasi restoran sehingga all in one konsep ini akan memudahkan dalam kebutuhan pembukuan maupun transaksi dengan cepat via online mode ini, pada halaman &lt;a class=&quot;text-secondary&quot; href=&quot;index.php?id=website-restoran&quot;&gt;pembuatan website restoran cafe rumah makan&lt;/a&gt; home page akan menampilkan detail untuk meja yang ada di lokasi resto cafe, selanjutnya pelanggan dapat memilih meja sesuai kebutuhan include dengan jumlah kursi pada meja itu,dan tentunya integrasi langsung dengan whastapp untuk kebutuhan pelanggan melakukan booking secara online langsung. konsep website ini selain untuk informasi juga berfungsi mencatat pembukuan via booking mode include dengan fee dan tanggal awal hingga akhir plus laporan reservasi akan dimunculkan pada website menu,&lt;/p&gt;
+
+				&lt;h3&gt;&lt;strong&gt;&lt;a href=&quot;index.php?id=website-restoran&quot;&gt;Blog Event Agenda Promosi&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+				&lt;p&gt;Untuk penyampaian mengenai promosi agenda dan update terbaru mengenai restoran cafe,maka dapat dilakukan dengan membuat update terbaru untuk berbagai kebutuhan promosi event dan lain nya pada blog area ini, dengan website blog ini maka dengan mudah pelanggan memperoleh informasi yang valid secara lansgsung dari restoran cafe rumah makan.&lt;/p&gt;
+
+				&lt;h3&gt;&lt;strong&gt;&lt;a href=&quot;index.php?id=website-restoran&quot;&gt;Integrasi Menu Resto + Online Order&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+				&lt;p&gt;Dan pada halaman website utama ini akan terintegrasi secara lansgung dengan menu yang sudah di inputkan pada aplikasi restoran , fitur ini tersedia pada menu button pada home page area website restoran, dan pada menu area website akan memberikan informasi secara langsung menu makanan dan minuman hingga produk include dengan harga jual secara langsung, dan tentunya dengan order by whatsapp akan mempercepat handling order pelanggan restoran cafe secara langsung.&lt;/p&gt;
+
+				&lt;div class=&quot;text-center&quot;&gt;&lt;button class=&quot;btn btn-dark&quot; data-bs-target=&quot;#websiteModal&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;Test Demo&lt;/button&gt;&lt;/div&gt;
+
+				&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;websiteModalLabel&quot; class=&quot;modal fade&quot; id=&quot;websiteModal&quot; tabindex=&quot;-1&quot;&gt;
+					&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+						&lt;div class=&quot;modal-content bg-dark text-white&quot;&gt;
+							&lt;div class=&quot;modal-header&quot;&gt;
+								&lt;h5 class=&quot;modal-title text-white&quot; id=&quot;websiteModalLabel&quot;&gt;Website demo&lt;/h5&gt;
+								&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close text-white&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;modal-body&quot;&gt;
+								&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/tNBRSJKN8N0&quot; title=&quot;Pembuatan website restoran cafe rumah makan&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+							&lt;/div&gt;
+
+							&lt;div class=&quot;modal-footer&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

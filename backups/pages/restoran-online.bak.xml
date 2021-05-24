@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 23 May 2021 23:43:22 +0700</pubDate><title><![CDATA[Restoran Online]]></title><url><![CDATA[restoran-online]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Restoran Online]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[  &lt;link href=&quot;https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&quot; rel=&quot;stylesheet&quot;/&gt;
+  &lt;link href=&quot;https://bstp.sourceforge.io/kasirmesinpos.css&quot; rel=&quot;stylesheet&quot;/&gt;
+  &lt;link href=&quot;https://bstp.sourceforge.io/kasirmesinapp.css&quot; rel=&quot;stylesheet&quot;/&gt;
+  &lt;link href=&quot;https://bstp.sourceforge.io/kasirmesinweb.css?v=1.0.2&quot; rel=&quot;stylesheet&quot;/&gt;
+&lt;section class=&quot;py-3&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-6 text-center&quot;&gt;
+			&lt;h3 class=&quot;mb-5&quot;&gt;Pricing Resto-X Web Apps&lt;/h3&gt;
+
+			&lt;p&gt;Daftar harga layanan per tahun sesuai package set&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+			&lt;div class=&quot;card card-plain card-blog shadow rounded p-3&quot;&gt;
+				&lt;div class=&quot;card-body px-0&quot;&gt;
+					&lt;p class=&quot;lead border bg-primary text-white text-center p-3&quot;&gt;Basic&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p&gt;Resto-X Apps&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Free domain .my.id&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Clouds Host&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Free Website Informasi&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;500MB Web Space&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p class=&quot;lead p-3 bg-primary text-white&quot;&gt;&lt;strong&gt;Rp.1.085.600&lt;/strong&gt;&lt;/p&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;btn btn-primary&quot; href=&quot; https://wa.me/6285646104747?text=Axcoraapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3AResto-XBasic%0APrice%20%3ARp.1.085.600/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+			&lt;div class=&quot;card card-plain card-blog shadow rounded p-3&quot;&gt;
+				&lt;div class=&quot;card-body px-0&quot;&gt;
+					&lt;p class=&quot;lead border bg-danger text-white text-center p-3&quot;&gt;Premium&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p&gt;Resto-X Apps&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Free domain .com&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Clouds Host&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Website Premium Pack&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;1.5GB Web Space&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Reservasi Website&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Online Order&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;QR Code Digital Menu&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;APK Android Backend&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;APK Android Frontend&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p class=&quot;lead p-3 bg-danger text-white&quot;&gt;&lt;strong&gt;Rp.3.264.800&lt;/strong&gt;&lt;/p&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;btn btn-danger&quot; href=&quot; https://wa.me/6285646104747?text=Axcorasapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3AResto-XPremium%0APrice%20%3ARp.3.264.800/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-sm-6 text-center&quot;&gt;
+			&lt;div class=&quot;card card-plain card-blog shadow rounded p-3&quot;&gt;
+				&lt;div class=&quot;card-body px-0&quot;&gt;
+					&lt;p class=&quot;lead border bg-info text-white text-center p-3&quot;&gt;Standard&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p&gt;Resto-X Apps&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Free domain .com&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Clouds Host&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;CMS Website&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;500MB Web Space&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;APK Android Backend&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Bantuan&lt;/p&gt;
+
+					&lt;hr /&gt;
+					&lt;p&gt;Layanan Konsultasi&lt;/p&gt;
+					&amp;nbsp;
+
+					&lt;p class=&quot;lead p-3 bg-info text-white&quot;&gt;&lt;strong&gt;Rp.1.561.200&lt;/strong&gt;&lt;/p&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;btn btn-info text-white&quot; href=&quot; https://wa.me/6285646104747?text=Axcoraapps%20saya%20mau%20order%20Webapp%0ANama/Usaha%20%3A%0AAlamat%20%3A%0APaketwebapp%20%3AResto-XStandard%0APrice%20%3ARp.1.561.200/tahun%0APembayaran%20via%20%3A%0ABCA%208290363021%20Rica%20Anggraini%0A%0Atolong%20diproses%20pesanan%20saya &quot;&gt;Order Now &lt;/a&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 May 2021 11:34:48 +0700</pubDate><title><![CDATA[Fitur Apps]]></title><url><![CDATA[fitur-apps]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Fitur Apps]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h3&gt;&lt;strong&gt;&lt;a class=&quot;text-dark&quot; href=&quot;/&quot;&gt;Fitur Program software toko&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Pilih menu dibawah ini untuk melihat detail bagaimana bekerja dengan program toko, software aplikasi toko toko ini.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;ul class=&quot;navbar-nav&quot;&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=login-apps&quot;&gt;&lt;i class=&quot;fas fa-sign-in-alt&quot;&gt;&lt;/i&gt; Login Aplikasi toko&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=dashboard&quot;&gt;&lt;i class=&quot;fas fa-tachometer-alt&quot;&gt;&lt;/i&gt; Dashboard Aplikasi toko&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=database&quot;&gt;&lt;i class=&quot;fas fa-archive&quot;&gt;&lt;/i&gt; Database Aplikasi toko&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=kasir&quot;&gt;&lt;i class=&quot;fas fa-cash-register&quot;&gt;&lt;/i&gt; Kasir POS Penjualan Aplikasi toko&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=laporan&quot;&gt;&lt;i class=&quot;fas fa-chart-bar&quot;&gt;&lt;/i&gt; Laporan Pendapatan Aplikasi toko&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=website-online-shop&quot;&gt;&lt;i class=&quot;fab fa-chrome&quot;&gt;&lt;/i&gt; Website Fitur &lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link text-dark&quot; href=&quot;index.php?id=android-app&quot;&gt;&lt;i class=&quot;fab fa-android&quot;&gt;&lt;/i&gt; Android Aplikasi Integrasi &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;button type=&quot;button&quot; class=&quot;btn btn-dark&quot; data-bs-toggle=&quot;modal&quot; data-bs-target=&quot;#desktopBackdrop&quot;&gt;
+ Demo Dekstop App
+&lt;/button&gt;
+&lt;button type=&quot;button&quot; class=&quot;btn btn-outline-dark&quot; data-bs-toggle=&quot;modal&quot; data-bs-target=&quot;#mobileBackdrop&quot;&gt;
+ Demo Mobile App
+&lt;/button&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;desktopBackdrop&quot; data-bs-backdrop=&quot;static&quot; data-bs-keyboard=&quot;false&quot; tabindex=&quot;-1&quot; aria-labelledby=&quot;desktopBackdropLabel&quot; aria-hidden=&quot;true&quot;&gt;
+  &lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;div class=&quot;modal-header bg-warning&quot;&gt;
+        &lt;h5 class=&quot;modal-title&quot; id=&quot;desktopBackdropLabel&quot;&gt;Desktop Demo&lt;/h5&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-body bg-dark&quot;&gt;
+       &lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/kjDh1BhSvz0&quot; title=&quot;aplikasi toko mesin kasir online&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-footer bg-warning&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn btn-dark&quot; data-bs-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;mobileBackdrop&quot; data-bs-backdrop=&quot;static&quot; data-bs-keyboard=&quot;false&quot; tabindex=&quot;-1&quot; aria-labelledby=&quot;mobileBackdropLabel&quot; aria-hidden=&quot;true&quot;&gt;
+  &lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;div class=&quot;modal-header bg-warning&quot;&gt;
+        &lt;h5 class=&quot;modal-title&quot; id=&quot;mobileBackdropLabel&quot;&gt;Mobile Demo&lt;/h5&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-body bg-dark&quot;&gt;
+       &lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/1PWUy4woxSM&quot; title=&quot;aplikasi toko mesin kasir online&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-footer bg-warning&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn btn-dark&quot; data-bs-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a class=&quot;text-dark float-end&quot; href=&quot;index.php?id=login-apps&quot;&gt;Login Menu →&lt;/a&gt;&lt;a class=&quot;text-dark float-start&quot; href=&quot;index.php?id=about&quot;&gt;← About Apps&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
