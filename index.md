@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# New Modern CMS Build a website without database.
+---
+A new generation get simpe cms axcora tech for develope website project powerfull !!
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/simplestartup-web-template/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+No need a database for installation , make your website very fast and SEO friendly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple startup themes template website apps. Modern design with boostrap 5 + fontawesome
+--
+![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%281%29.png/max/max/1)
 
-### Markdown
+Home page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%284%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Pricing services page
 
-# Header 1
-## Header 2
-### Header 3
+![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%285%29.png/max/max/1)
 
-- Bulleted
-- List
+Other page
 
-1. Numbered
-2. List
+![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%283%29.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+Contact Page
 
-[Link](url) and ![Image](src)
-```
+------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Login Area for backend
 
-### Jekyll Themes
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/simplestartup-web-template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Page and article post menu.
 
-### Support or Contact
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Create article post very simple and easy
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+
+Back end setting
+
+ -----------------------------------------------------------------
+### how to install
+
+[read documentation →](https://axcora.com/getaxcoracms/index.php?id=get-started)
+
+CLOUDS / SHARED HOSTING
+
+Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
+After upload progress success, visit your website url/admin then login with username : axcora / pass : axcoracms
+open on setting menu and change url with your website url , change password , then save it, and your website is online now...
+
+LOCALHOST
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project/admin.
+then login with username : axcora / pass : axcoracms
+open on setting menu and change url with your website url , change password , then save it, and your website is online now...
+
+---
+Features :
+
+Frontend
++ Home page design with landing page
++ About page
++ Info page 
++ Profile page
++ Gallery Page
++ Contact Page information
+---
+Backend
++ Page for create new post article content you can edit and delete too.
++ File menu for upload media manager
++ Setting for change password and others.
++ SEO : automaticly generate meta title , description , facebook, twitter.
+----
+
+No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
+
+----
+
+Need demo ?? 
+
+[Demo 1 →](https://resto-x.sourceforge.io/)
+
+[Demo 2 →](https://aplikasitoko-online-webapps.sourceforge.io/)
+
+
+More themes :
+https://axcora.com/getaxcoracms
+
+present by https://axcora.com
+
+Hapy codding !!
