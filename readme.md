@@ -6,21 +6,12 @@ No need a database for installation , make your website very fast and SEO friend
 
 Simple startup themes template website apps. Modern design with boostrap 5 + fontawesome
 --
-![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%281%29.png/max/max/1)
+![free website template simple start up gratis](https://1.bp.blogspot.com/-uSa0sVaJeKU/YPFrt7jiG1I/AAAAAAAAP44/LB0g-u6a9xIbuoEJIkgOQCB6J8_1sFw4QCLcBGAsYHQ/s1440/startup%2Bwebsite%2Btemplate%2Bfree%2Bdownload.png)
 
-Home page
-
-![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%284%29.png/max/max/1)
-
-Pricing services page
-
-![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%285%29.png/max/max/1)
-
-Other page
-
-![free website template simple start up gratis](https://a.fsdn.com/con/app/proj/aplikasi-toko/screenshots/free%20website%20template%20themes%20download%20gratis%20%283%29.png/max/max/1)
-
-Contact Page
++ Home page
++ Pricing services page
++ Other page
++ Contact Page
 
 ------
 
@@ -79,9 +70,8 @@ No need a database installation make your website very fast, and of course with 
 
 Need demo ?? 
 
-[Demo 1 →](https://resto-x.sourceforge.io/)
+[Play Demo →](https://www.youtube.com/watch?v=T_qlgBGpmHM)
 
-[Demo 2 →](https://aplikasitoko-online-webapps.sourceforge.io/)
 
 
 More themes :
